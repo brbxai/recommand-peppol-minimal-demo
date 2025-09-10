@@ -1,9 +1,9 @@
 # Recommand configuration
-API_KEY = "key_01K4TPA9EA1C2PG7SPHFCEZD1J"
-API_SECRET = "secret_6fb0e1f6844a4d4d861dc23662f21cad"
-TEAM_ID = "team_01K4TPA3VYABGQVRHK9CR2ZH0N"
+API_KEY = "key_"
+API_SECRET = "secret_"
+TEAM_ID = "team_"
 
-COMPANY_ID = "c_01K4TPB98ZJBR9GX4173VCVS88" # Sender is 0208:1012081766
+COMPANY_ID = "c_" # Sender is 0208:1012081766
 
 # Information about the customer
 BUYER = {
